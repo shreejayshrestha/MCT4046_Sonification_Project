@@ -1,1 +1,1 @@
-# MCT4046_Sonificatioin_Project
+# MCT4046_Sonification_Project
