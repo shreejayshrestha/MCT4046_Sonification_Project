@@ -6,6 +6,6 @@ Thank you.
 
 Authors
 
-Karolina J.
-Ashane S.
+Karolina J.;
+Ashane S. ; &
 Shreejay S.
