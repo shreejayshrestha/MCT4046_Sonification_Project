@@ -1,0 +1,128 @@
+[
+  {
+    "AADF": 2000,
+    "PedalCycle": 79920,
+    "MotorCycle": 222525,
+    "CarTaxies": 26956216,
+    "BusCoaches": 367302
+  },
+  {
+    "AADF": 2001,
+    "PedalCycle": 78138,
+    "MotorCycle": 232931,
+    "CarTaxies": 27309361,
+    "BusCoaches": 377048
+  },
+  {
+    "AADF": 2002,
+    "PedalCycle": 73433,
+    "MotorCycle": 237346,
+    "CarTaxies": 27695209,
+    "BusCoaches": 353026
+  },
+  {
+    "AADF": 2003,
+    "PedalCycle": 73426,
+    "MotorCycle": 267168,
+    "CarTaxies": 27509617,
+    "BusCoaches": 322425
+  },
+  {
+    "AADF": 2004,
+    "PedalCycle": 61833,
+    "MotorCycle": 225081,
+    "CarTaxies": 28108929,
+    "BusCoaches": 293387
+  },
+  {
+    "AADF": 2005,
+    "PedalCycle": 54449,
+    "MotorCycle": 214996,
+    "CarTaxies": 28135045,
+    "BusCoaches": 297896
+  },
+  {
+    "AADF": 2006,
+    "PedalCycle": 75335,
+    "MotorCycle": 213851,
+    "CarTaxies": 28273059,
+    "BusCoaches": 300005
+  },
+  {
+    "AADF": 2007,
+    "PedalCycle": 51618,
+    "MotorCycle": 212727,
+    "CarTaxies": 28132190,
+    "BusCoaches": 287112
+  },
+  {
+    "AADF": 2008,
+    "PedalCycle": 63598,
+    "MotorCycle": 205438,
+    "CarTaxies": 27845252,
+    "BusCoaches": 270097
+  },
+  {
+    "AADF": 2009,
+    "PedalCycle": 72132,
+    "MotorCycle": 210086,
+    "CarTaxies": 28232917,
+    "BusCoaches": 274654
+  },
+  {
+    "AADF": 2010,
+    "PedalCycle": 72116,
+    "MotorCycle": 196972,
+    "CarTaxies": 27854236,
+    "BusCoaches": 290439
+  },
+  {
+    "AADF": 2011,
+    "PedalCycle": 77867,
+    "MotorCycle": 196507,
+    "CarTaxies": 28550444,
+    "BusCoaches": 279982
+  },
+  {
+    "AADF": 2012,
+    "PedalCycle": 74252,
+    "MotorCycle": 183164,
+    "CarTaxies": 28394607,
+    "BusCoaches": 285898
+  },
+  {
+    "AADF": 2013,
+    "PedalCycle": 72482,
+    "MotorCycle": 187843,
+    "CarTaxies": 28160807,
+    "BusCoaches": 276562
+  },
+  {
+    "AADF": 2014,
+    "PedalCycle": 70136,
+    "MotorCycle": 193522,
+    "CarTaxies": 29010942,
+    "BusCoaches": 274037
+  },
+  {
+    "AADF": 2015,
+    "PedalCycle": 68440,
+    "MotorCycle": 190789,
+    "CarTaxies": 29309801,
+    "BusCoaches": 274839
+  },
+  {
+    "AADF": 2016,
+    "PedalCycle": 70844,
+    "MotorCycle": 189350,
+    "CarTaxies": 29984013,
+    "BusCoaches": 250452
+  },
+  {
+    "AADF": 2017,
+    "PedalCycle": 72502,
+    "MotorCycle": 186612,
+    "CarTaxies": 30250168,
+    "BusCoaches": 227700
+  }
+]
