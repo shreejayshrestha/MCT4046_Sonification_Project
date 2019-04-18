@@ -1,5 +1,8 @@
 # MCT4046_Sonification_Project
 
+## Group Members
+Karolina J., Ashane S. & Shreejay S.
+
 ## Introduction
 This is a group project in MCT4046 Sonification and Sound Design course at the MCT programme(NTNU & UiO). We chose to analyse Traffic data (MotorBike, CarTaxies and BusCoaches) of thre three regions in England (North East, South East &  West Midland) via Parameter Mapping Sonification Technique.
 
@@ -22,9 +25,7 @@ We are very grateful to Anna Xambo, our teacher for the MCT4046 Sonification and
 
 Thank you.
 
-Shreejay
+On behalf of the team, 
+Shreejay.
 
 
-#### Group Members
-
-Karolina J., Ashane S. & Shreejay S.
