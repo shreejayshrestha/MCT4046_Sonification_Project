@@ -15,9 +15,9 @@ It contains all the sonification sound files in .wav file format.
 The file contains the synths made for the project in super collidor.
 
 #### sonification project 17 april 019.ipynb
-The script is written in jupyter notebook. It reads the data, maps certain synths to different parameters of the data, creates the sonification and finally records the sound files in .wav file format. It utilizes the sc3nb module for python/jupyter notebook developed by Thomas Hermann. The script is also inspired by the two days of lecture and hands on practice on sonification by Thomas using python and the sc3nb module for python/jupyter notebook.
+The script is written in jupyter notebook. It reads the data, maps certain synths to different parameters of the data, creates the sonification and finally records the sound files in .wav file format. It utilizes the <a href="https://github.com/thomas-hermann/sc3nb" target="_blank">sc3nb module</a> for python/jupyter notebook developed by <a href="https://sonification.de/thermann/" target="_blank">Thomas Hermann</a>. The script is also inspired by the two days of lecture and hands on practice on sonification by Thomas using python and the sc3nb module for python/jupyter notebook.
 
- 
+
 Thank you.
 
 Shreejay
