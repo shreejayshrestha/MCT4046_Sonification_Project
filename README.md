@@ -1,24 +1,28 @@
 # MCT4046_Sonification_Project
 
-This is a group project in MCT4046 Sonification and Sound Design course at the MCT programme(NTNU & UiO). 
+## Introduction
+This is a group project in MCT4046 Sonification and Sound Design course at the MCT programme(NTNU & UiO). We chose to analyse Traffic data (MotorBike, CarTaxies and BusCoaches) of thre three regions in England (North East, South East &  West Midland).
 
-## Description of Files
--(Pedal Cycle.xlsx, Motor Cycle.xlsx, CarTaxies.xlsx and BusCoaches.xlsx) contain data for 3 regions in England. 
+## Description of Files/Folders
+#### Data Files
+This folder contains all the raw data of the traffic data of three regions. It also contains the matlab script used to refine the data and the final data in .xls, .csv and .json file format. The raw files are downloaded from https://www.dft.gov.uk/traffic-counts/download.
 
--Data_NE.xlsx contain data for the 4 vehicles in the North East region
 
--Data_SE.xlsx contain data for the 4 vehicles in the South East region
+#### Final Sound Files
+It contains all the sonification sound files in .wav file format.
 
--Data_WM.xlsx contain data for the 4 vehicles in the West Midland region
+#### list of sounds for mapping.csd
+The file contains the synths made for the project in super collidor.
 
--North_East_raw.csv, South_East_raw.csv and West_Midlands_raw.csv are the raw files downloaded from https://www.dft.gov.uk/traffic-counts/download.
+#### sonification project 17 april 019.ipynb
+The script is written in jupyter notebook. It reads the data, maps certain synths to different parameters of the data, creates the sonification and finally records the sound files in .wav file format. It utilizes the sc3nb module for python/jupyter notebook developed by Thomas Hermann. The script is also inspired by the two days of lecture and hands on practice on sonification by Thomas using python and the sc3nb module for python/jupyter notebook.
 
--All of the other .csv files represent the .xlsx files 
-
--read_data.m is the matlab script that compile the raw data.
  
 Thank you.
 
-#### Authors
+Shreejay
+
+
+#### Group Members
 
 Karolina J., Ashane S. & Shreejay S.
