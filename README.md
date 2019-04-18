@@ -1,7 +1,7 @@
 # MCT4046_Sonification_Project
 
 ## Introduction
-This is a group project in MCT4046 Sonification and Sound Design course at the MCT programme(NTNU & UiO). We chose to analyse Traffic data (MotorBike, CarTaxies and BusCoaches) of thre three regions in England (North East, South East &  West Midland).
+This is a group project in MCT4046 Sonification and Sound Design course at the MCT programme(NTNU & UiO). We chose to analyse Traffic data (MotorBike, CarTaxies and BusCoaches) of thre three regions in England (North East, South East &  West Midland) via Parameter Mapping Sonification Technique.
 
 ## Description of Files/Folders
 #### Data Files
