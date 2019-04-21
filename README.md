@@ -12,7 +12,7 @@ This folder contains four sub folders- compiled dataset, javascript, matlab scri
 
 
 #### Final Sound Files
-It contains all the sonification sound files in .wav file format both prototypes.
+It contains all the sonification sound files in .wav file format for both of the prototypes.
 
 #### list of sounds for mapping.csd
 The file contains the synths for the second prototype made in super collidor.
