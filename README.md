@@ -8,7 +8,7 @@ This is a group project in MCT4046 Sonification and Sound Design course at the M
 
 ## Description of Files/Folders
 #### Data Files
-This folder contains all the raw data of the traffic data of three regions. It also contains the matlab script used to refine the data and the final data in .xls, .csv and .json file format. The raw files are downloaded from https://www.dft.gov.uk/traffic-counts/download.
+This folder contains all the raw data of the traffic data of three regions. It also contains the matlab script used to refine the data and the final data in .xls, .csv and .json file format. The raw data are downloaded from https://www.dft.gov.uk/traffic-counts/download.
 
 
 #### Final Sound Files
