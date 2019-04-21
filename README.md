@@ -6,6 +6,8 @@ Karolina J., Ashane S. & Shreejay S.
 ## Introduction
 This is a group project in MCT4046 Sonification and Sound Design course at the MCT programme(NTNU & UiO). We chose to analyse Traffic data (MotorBike, CarTaxies and BusCoaches) of thre three regions in England (North East, South East &  West Midland) for the period of 18 years from 2000-2017 via Parameter Mapping Sonification Technique.
 
+Two prototypes were created in the project, one in Javascript using P5js and the other in Python/Jupyter Notebook. This repository contains all the files for the project which are briefly described below;
+
 ## Description of Files/Folders
 #### Data Files
 This folder contains four sub folders- compiled dataset, javascript, matlab script and raw csv data. Compiled dataset contains the refined data, javascript cotains the code for first prototype, matlab script contsins the matlab script for refining the raw data and the raw scv data contains the raw data of the traffic data of three regions downloaded from https://www.dft.gov.uk/traffic-counts/download.
