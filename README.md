@@ -16,7 +16,7 @@ This folder contains four sub folders- compiled dataset, javascript, matlab scri
 It contains all the sonification sound files in .wav file format for both of the prototypes.
 
 #### list of sounds for mapping.csd
-The file contains the synths for the second prototype made in super collidor.
+This file contains the script for developing synths for the second prototype made in super collidor.
 
 #### sonification project 17 april 019.ipynb
 This is the script for second prototype written in python/jupyter notebook. It reads the refined data, maps certain synths to different parameters of the data, creates the sonification and finally records the sound files in .wav file format. It utilizes the <a href="https://github.com/thomas-hermann/sc3nb" target="_blank">sc3nb module</a> for python/jupyter notebook developed by <a href="https://sonification.de/thermann/" target="_blank">Thomas Hermann</a>. The script is also inspired by the two days of lecture and hands on practice on sonification by Thomas using python and the sc3nb module for python/jupyter notebook.
