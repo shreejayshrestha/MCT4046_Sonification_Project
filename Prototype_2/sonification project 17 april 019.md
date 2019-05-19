@@ -1,11 +1,11 @@
 
 
 ```python
-**Line 1** import pandas as pd from matplotlib import pyplot as plt
+Line 1 import pandas as pd from matplotlib import pyplot as plt
 ```
 
 ```python
-**Line 2** d = pd.read_csv("Data_WM.csv")
+Line 2 d = pd.read_csv("Data_WM.csv")
 ```
 
 
