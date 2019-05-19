@@ -1,23 +1,12 @@
 
 
 ```python
-Line 1 import pandas as pd from matplotlib import pyplot as plt
+import pandas as pd from matplotlib import pyplot as plt
 ```
 
 ```python
-Line 2 d = pd.read_csv("Data_WM.csv")
+d = pd.read_csv("Data_WM.csv")
 ```
-
-
-```python
-d
-```
-
-
-```python
-plt.plot(d.MotorCycle)
-```
-
 
 ```python
 import time, random, os
@@ -27,9 +16,7 @@ import sc3nb as scn
 
 ```python
 sc = scn.startup()  # optionally use argument sclangpath="/path/to/your/sclang"
-
 ```
-
 
 ```python
 %%sc 
@@ -40,16 +27,13 @@ SynthDef ("bus", {arg out=0, freqb= 50, mul=0.7, ampb = 0.2;
 }).add;
 ```
 
-
 ```python
 %sc g= Synth.new(\bus)
 ```
 
-
 ```python
 %sc g.free
 ```
-
 
 ```python
 %%sc
@@ -60,16 +44,13 @@ SynthDef ("car", {arg out=0, freqc = 2.5, mul2= 10, ampc = 1;
 }).add;
 ```
 
-
 ```python
 %sc f= Synth.new(\car)
 ```
 
-
 ```python
 %sc f.free
 ```
-
 
 ```python
 %%sc
@@ -80,27 +61,21 @@ SynthDef("motorbike", { arg out=0, freqm= 30, mul3 = 100, ampm = 1;
 }).add;
 ```
 
-
 ```python
 %sc e = Synth.new(\motorbike)
 ```
-
 
 ```python
 %sc e.free
 ```
 
-
 ```python
 queue = scn.TimedQueue()
 ```
 
-
 ```python
 t0 = time.time()
 delay = 0.2
-
-
 
 # instantiate synths
 #queue.put(t0+delay, sc.msg, ("/s_new", ["bus", 1234, 1, 1]))
@@ -129,8 +104,8 @@ for i in range (len(d)):
      #   [1235, 'freqc', c_freq,'ampc',c_amp]))    
     queue.put(t0 + delay + onset, sc.msg, ("/n_set", 
         [1236, 'freqm',m_freq,'ampm', m_amp]))
-           
-    
+        
+  
 # shut down synth when finished
 #queue.put(t0 + delay + onset, sc.msg, ("/n_free", 1234))
 #queue.put(t0 + delay + onset, sc.msg, ("/n_free", 1235))
