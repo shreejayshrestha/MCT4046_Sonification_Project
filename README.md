@@ -9,7 +9,7 @@ It contains all the files for the project which are briefly described below;
 
 ## Description of Folders
 #### Data Files
-This folder contains four sub folders- raw csv data and refined data. Raw scv data contains the raw data of the traffic data of three regions downloaded from https://www.dft.gov.uk/traffic-counts/download. Refined data includes data ready for analysis in csv and json file formats.
+This folder contains two sub folders- raw csv data and refined data. Raw scv data contains raw data of the traffic data of the three regions downloaded from https://www.dft.gov.uk/traffic-counts/download. Refined data includes data ready for analysis in csv and json file formats.
 
 #### Final Sound Files
 It contains all the sonification sound files in .wav file format for both of the prototypes.
