@@ -25,7 +25,7 @@ function dataReady1(data1){
   figures1 = data1.figures;
   for (var i = 0; i < figures1.length; i++) {
     append(arrayBus, [figures1[i].AADF,figures1[i].NE,figures1[i].SE,figures1[i].WM]);
-  };
+};
 
   // for three cities 
   for (var i = 0; i < arrayBus.length;  i++) {
