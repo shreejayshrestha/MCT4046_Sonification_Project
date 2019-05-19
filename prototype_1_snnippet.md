@@ -30,8 +30,7 @@ function dataReady1(data1){
 
   // for three cities 
   for (var i = 0; i < arrayBus.length;  i++) {
-    
-    setTimeout(function(y) {
+  setTimeout(function(y) {
     
     freq1 = map(arrayBus[y][1],140235, 183753, 200, 600);
     freq2 = map(arrayBus[y][2],227700, 377048, 700, 1000);
