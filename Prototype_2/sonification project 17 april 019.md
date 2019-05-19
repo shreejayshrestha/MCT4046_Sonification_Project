@@ -1,7 +1,7 @@
 
 
 ```python
-import pandas as pd
+Line 1 import pandas as pd
 from matplotlib import pyplot as plt
 ```
 
